@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.9ada6b02.chunk.css",
+    "main.css": "/memory-card/static/css/main.ae09ecc4.chunk.css",
     "main.js": "/memory-card/static/js/main.7e25921b.chunk.js",
     "main.js.map": "/memory-card/static/js/main.7e25921b.chunk.js.map",
     "runtime-main.js": "/memory-card/static/js/runtime-main.742e98cc.js",
@@ -8,7 +8,7 @@
     "static/js/2.538bb3d9.chunk.js": "/memory-card/static/js/2.538bb3d9.chunk.js",
     "static/js/2.538bb3d9.chunk.js.map": "/memory-card/static/js/2.538bb3d9.chunk.js.map",
     "index.html": "/memory-card/index.html",
-    "static/css/main.9ada6b02.chunk.css.map": "/memory-card/static/css/main.9ada6b02.chunk.css.map",
+    "static/css/main.ae09ecc4.chunk.css.map": "/memory-card/static/css/main.ae09ecc4.chunk.css.map",
     "static/js/2.538bb3d9.chunk.js.LICENSE.txt": "/memory-card/static/js/2.538bb3d9.chunk.js.LICENSE.txt",
     "static/media/cool.b5039269.png": "/memory-card/static/media/cool.b5039269.png",
     "static/media/frustrated(2).6c88a019.png": "/memory-card/static/media/frustrated(2).6c88a019.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.742e98cc.js",
     "static/js/2.538bb3d9.chunk.js",
-    "static/css/main.9ada6b02.chunk.css",
+    "static/css/main.ae09ecc4.chunk.css",
     "static/js/main.7e25921b.chunk.js"
   ]
 }
