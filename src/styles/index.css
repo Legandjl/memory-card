@@ -143,8 +143,9 @@ table {
 
 .gameWrap {
   display: grid;
-  min-height: 100vh;
+  height: 100vh;
   min-width: 100vw;
+
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: auto 1fr 1fr;
   justify-content: center;
@@ -158,6 +159,7 @@ table {
 @media only screen and (max-width: 1000px) {
   .gameWrap {
     grid-template-columns: 1fr 1fr;
+    height: auto;
     min-height: 100vh;
     min-width: 100vw;
   }
