@@ -1,0 +1,13 @@
+.footer {
+  background-color: #428dff;
+  width: 100%;
+  grid-column: 1/-1;
+  display: grid;
+  justify-items: center;
+  padding: 5px;
+  align-items: center;
+  font-size: 12px;
+  align-content: center;
+  font-family: "Permanent Marker", cursive;
+  color: #e9e9e9;
+}

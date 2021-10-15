@@ -12,7 +12,6 @@ const Card = (props) => {
 
   useEffect(() => {
     if (isGameOver) {
-      console.log("game over!");
       setClickCount(() => {
         return 0;
       });
@@ -27,7 +26,13 @@ const Card = (props) => {
 
   return (
     <div className="card" onClick={clickCard}>
-      {cardNum}
+      <div className="imgWrap">
+        <img
+          alt={"emoji"}
+          src={props.src}
+          style={{ height: "auto", width: "auto", maxHeight: 80 }}
+        />
+      </div>
     </div>
   );
 };
