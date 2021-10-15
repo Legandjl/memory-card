@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Legandjl/memory-card.git/static/css/main.948d640f.chunk.css",
+    "main.js": "/Legandjl/memory-card.git/static/js/main.12b4fc99.chunk.js",
+    "main.js.map": "/Legandjl/memory-card.git/static/js/main.12b4fc99.chunk.js.map",
+    "runtime-main.js": "/Legandjl/memory-card.git/static/js/runtime-main.4720de16.js",
+    "runtime-main.js.map": "/Legandjl/memory-card.git/static/js/runtime-main.4720de16.js.map",
+    "static/js/2.538bb3d9.chunk.js": "/Legandjl/memory-card.git/static/js/2.538bb3d9.chunk.js",
+    "static/js/2.538bb3d9.chunk.js.map": "/Legandjl/memory-card.git/static/js/2.538bb3d9.chunk.js.map",
+    "index.html": "/Legandjl/memory-card.git/index.html",
+    "static/css/main.948d640f.chunk.css.map": "/Legandjl/memory-card.git/static/css/main.948d640f.chunk.css.map",
+    "static/js/2.538bb3d9.chunk.js.LICENSE.txt": "/Legandjl/memory-card.git/static/js/2.538bb3d9.chunk.js.LICENSE.txt",
+    "static/media/cool.b5039269.png": "/Legandjl/memory-card.git/static/media/cool.b5039269.png",
+    "static/media/frustrated(2).6c88a019.png": "/Legandjl/memory-card.git/static/media/frustrated(2).6c88a019.png",
+    "static/media/frustrated.a4e1bc48.png": "/Legandjl/memory-card.git/static/media/frustrated.a4e1bc48.png",
+    "static/media/laughing.bde8253a.png": "/Legandjl/memory-card.git/static/media/laughing.bde8253a.png",
+    "static/media/nerd.aab599e3.png": "/Legandjl/memory-card.git/static/media/nerd.aab599e3.png",
+    "static/media/relaxed.323ff0a0.png": "/Legandjl/memory-card.git/static/media/relaxed.323ff0a0.png",
+    "static/media/sad.d9b7c3d7.png": "/Legandjl/memory-card.git/static/media/sad.d9b7c3d7.png",
+    "static/media/shocked.add9606f.png": "/Legandjl/memory-card.git/static/media/shocked.add9606f.png",
+    "static/media/silence.bea20397.png": "/Legandjl/memory-card.git/static/media/silence.bea20397.png",
+    "static/media/swearing.227dcbb1.png": "/Legandjl/memory-card.git/static/media/swearing.227dcbb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4720de16.js",
+    "static/js/2.538bb3d9.chunk.js",
+    "static/css/main.948d640f.chunk.css",
+    "static/js/main.12b4fc99.chunk.js"
+  ]
+}
