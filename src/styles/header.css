@@ -11,14 +11,13 @@
 }
 
 .scoreWrap {
-  justify-content: start;
-  justify-items: start;
+  justify-content: center;
+  justify-items: center;
   padding: 10px;
   white-space: nowrap;
 }
 
 .scoreBoard {
-  width: 50%;
   height: 100%;
   display: grid;
   align-content: center;
