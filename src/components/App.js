@@ -28,7 +28,7 @@ const App = () => {
         return true;
       });
     }
-    if (timesClicked !== 0) {
+    if (timesClicked !== 0 && timesClicked < 2) {
       setCurrentScore((previousScore) => {
         return previousScore + 1;
       });
