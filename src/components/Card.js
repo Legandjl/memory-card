@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "../styles/card.css";
 
 const Card = (props) => {
-  const { cardClicked, cardNum, isGameOver } = props;
+  const { cardClicked, isGameOver } = props;
   //const [imgUrl, setImgUrl] = useState(props.imgUrl);
   const [clickCount, setClickCount] = useState(0);
 

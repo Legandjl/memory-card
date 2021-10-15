@@ -43,7 +43,6 @@ const App = () => {
     return (
       <Card
         key={index}
-        cardNum={index}
         cardClicked={checkCard}
         isGameOver={isGameOver}
         src={src}
