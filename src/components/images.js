@@ -1,6 +1,5 @@
 import img1 from "../images/cool.png";
 import img2 from "../images/frustrated.png";
-
 import img4 from "../images/frustrated(2).png";
 import img5 from "../images/laughing.png";
 import img6 from "../images/nerd.png";

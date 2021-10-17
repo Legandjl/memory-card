@@ -9,3 +9,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
+
+// icons from https://www.flaticon.com/packs/emoji-people-1
