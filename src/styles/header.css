@@ -1,7 +1,6 @@
 .header {
   grid-column: 1/-1;
   grid-row: 1;
-
   width: 100%;
   min-height: 100px;
   background-color: #428dff;
