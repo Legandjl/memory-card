@@ -19,7 +19,11 @@ const App = () => {
   });
   return (
     <div className="gameWrap">
-      <Header currentScore={Logic.currentscore} highScore={Logic.highScore} />
+      <Header
+        currentScore={Logic.currentscore}
+        highScore={Logic.highScore}
+        globalScore={Logic.globalHighScore}
+      />
       {Logic.shuffleCards(cardElements)}
       <Footer />
     </div>
