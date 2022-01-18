@@ -2,7 +2,7 @@
 
 Simple memory game created with React, for the Odin Project curriculum
 
-Added a simple global score and firebase hosting
+Uses a firebase backend to maintain a global highscore (Implemented this as a quick way to test my understanding of firebase as I hadn't used it before).
 
 Live demo:
 
